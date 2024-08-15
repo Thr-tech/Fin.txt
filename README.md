@@ -23,5 +23,5 @@ python RANDOM.py
 
 <!-- View Counter -->
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=thr-tech&label=Profile%20views&color=brightgreen&style=flat" alt="thr-tech" />
+    <img src="https://komarev.com/ghpvc/?username=thr-tech&label=TodayProfile%20views&color=brightgreen&style=flat" alt="thr-tech" />
 </p>
