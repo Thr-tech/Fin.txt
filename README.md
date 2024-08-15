@@ -18,7 +18,7 @@ python RANDOM.py
 //////////////////END////////////////////////////
 <!-- Banner Image (GIF) -->
 <p align="center">
-    <img src="https://imgur.com/a/A0iktmq" alt="Banner" width="100%">
+    <img src="https://user-images.githubusercontent.com/84501170/121711504-4dbf1280-caf8-11eb-9f65-da93bbd8a1d7.jpg" alt="Banner" width="100%">
 </p>
 
 <!-- View Counter -->
