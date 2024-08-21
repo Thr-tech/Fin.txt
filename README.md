@@ -25,3 +25,16 @@ python RANDOM.py
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=thr-tech&label=TodayProfile%20views&color=brightgreen&style=flat" alt="thr-tech" />
 </p>
+
+
+
+
+###### FOR ALL COUNTRY #####
+git clone https://github.com/Thr-tech/Fin.txt
+
+
+cd Fin.txt
+
+
+
+python Anim.py
